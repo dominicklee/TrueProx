@@ -1,4 +1,6 @@
 # TrueProx
+[![Arduino Lint](https://github.com/dominicklee/TrueProx/actions/workflows/main.yml/badge.svg)](https://github.com/dominicklee/TrueProx/actions?workflow=Arduino+Lint)
+
 Arduino library for high accuracy non-blocking presence detection using analog proximity sensors
 
 ![](https://raw.githubusercontent.com/dominicklee/TrueProx/main/extras/logo.png)
