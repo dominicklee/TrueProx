@@ -1,0 +1,9 @@
+TrueProx	KEYWORD1
+setChecks	KEYWORD2
+setIntervals	KEYWORD2
+setTriggerCallback	KEYWORD2
+setCheckCallback	KEYWORD2
+sensorVal	KEYWORD2
+enableReverse	KEYWORD2
+resetTrigger	KEYWORD2
+conditionMet	KEYWORD2
