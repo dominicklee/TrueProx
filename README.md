@@ -1,6 +1,8 @@
 # TrueProx
 Arduino library for high accuracy non-blocking presence detection using analog proximity sensors
 
+![](https://raw.githubusercontent.com/dominicklee/TrueProx/main/extras/logo.png)
+
 ## Overview ##
 Analog sensors such as IR proximity or ultrasounds sensors can provide very accurate distance detection. However, when using such sensors, the results may be jittery. Many applications that involve presence detection require more reliable sensor readings with consistent confirmation that an area is indeed occupied or unoccupied.
 
